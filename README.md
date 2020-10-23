@@ -1,1 +1,1 @@
-# Courses
+# Machine Learning Courses
